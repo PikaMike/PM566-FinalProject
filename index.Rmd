@@ -10,8 +10,6 @@ output:
 This is my PM566 Final Project website.
 
 ```{r}
-# install.packages("knitr")
-
 library(data.table)
 library(tidyverse)
 library(dplyr)
